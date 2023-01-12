@@ -1,0 +1,27 @@
+.container {
+    padding: 20px;
+    background-color: #282d35;
+    min-height: 100vh;
+    background-image: url("../images/reactjs-icon2.png");
+    background-repeat: no-repeat;
+    background-position: right;
+}
+
+.container h1{
+    color: white;
+    font-size: 40px;
+    font-weight: 700;
+}
+.container ul {
+    margin-top: 50px;
+}
+.container ul li {
+    color: white;
+    margin: 16px;
+    font-weight: 400;
+    max-width: 400px;
+}
+ .container ul li::marker {
+    color: #61DAFB;
+    font-size: 22px;
+ }

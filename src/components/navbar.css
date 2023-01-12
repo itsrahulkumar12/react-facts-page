@@ -1,0 +1,28 @@
+nav {
+    background-color: #21222A;
+    height: 91px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 5px;
+    
+}
+
+nav div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 5px;
+    margin-left: 15px;
+}
+
+nav div h1 {
+    color: #61dafb;
+    font-weight: 600;
+}
+
+nav h4 {
+    color: #deebf8;
+    font-weight: 600;
+    margin-right: 10px
+}
